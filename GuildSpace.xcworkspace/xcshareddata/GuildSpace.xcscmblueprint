@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9AA06B75CC76F1A35CF5253F685A1C5AC16B3AD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BC8D3481116427CC3A76C059A37FE1E8E6AC8FC1" : 0,
+    "9AA06B75CC76F1A35CF5253F685A1C5AC16B3AD2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E92A725-1FE4-4CEC-AFF0-4451832EE421",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BC8D3481116427CC3A76C059A37FE1E8E6AC8FC1" : "",
+    "9AA06B75CC76F1A35CF5253F685A1C5AC16B3AD2" : "GuildSpace"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuildSpace",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuildSpace.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/Lorange\/GuildSpace.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AA06B75CC76F1A35CF5253F685A1C5AC16B3AD2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JasonRayleigh\/JRLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC8D3481116427CC3A76C059A37FE1E8E6AC8FC1"
+    }
+  ]
+}
